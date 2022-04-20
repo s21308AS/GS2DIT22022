@@ -1,1 +1,43 @@
 
+p {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  75% {
+    font-size: 300%;
+    margin-left: 25%;
+    width: 150%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+<p>The Caterpillar and Alice looked at each other for some time in silence:
+at last the Caterpillar took the hookah out of its mouth, and addressed
+her in a languid, sleepy voice.</p>
+
+///full code: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations///
+
+
