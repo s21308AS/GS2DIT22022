@@ -1,0 +1,7 @@
+<!--CSS Spinner-->
+<div class="spinner-wrapper">
+<div class="spinner"></div>
+</div>
+
+///code for the simple spinners: https://codepen.io/sdelaney/pen/wWdxPe /// 
+///source for the loading page: https://wpengine.com/resources/add-preloader-animation-wordpress/ ///
